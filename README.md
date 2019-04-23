@@ -5,6 +5,9 @@
 
 ## Knowledge Must Have
 
+## [c++](https://www.learncpp.com/): 实车， python：simulation
+## graph search: BFS, DFS
+
 ### Coding 编程:
 
 - 熟练使用Matlab, Carsim, CarMaker等软件
