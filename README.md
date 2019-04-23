@@ -7,6 +7,7 @@
 
 ## [c++](https://www.learncpp.com/): 实车， python：simulation
 ## graph search: BFS, DFS
+## 求offer 的课？
 
 ### Coding 编程:
 
@@ -317,4 +318,82 @@
 
 
 
+###求offer 课程
 
+课程大纲
+Part I: Software Development
+
+第 01 周
+
+Overview of the course, projects, and AWS
+Introduction to C++
+Sorting Algorithms
+第 02 周
+
+Data Structures
+Memory management
+Recursion I
+第 03 周
+
+Recursion II
+Binary Tree & Binary Search Tree
+Graph Search Algorithms
+第 04 周
+
+Probability, Sampling, Randomization
+Readability
+Optimization
+
+
+Part II: Planning and Decision Making for Self-Driving Cars
+
+第 05 周
+
+Intro and Overview of Autonomous Navigation
+Software
+Math Review
+ROS transforms
+第 06 周
+
+Trajectories and Vehicle Models
+Environment Models
+PID control
+第 07 周
+
+Implementation of Controls
+Planning
+第 08 周
+
+State space representations
+Hierarchical planners
+Heuristic search based planners
+第 09 周
+
+Advanced search based planners
+Trajectory planning
+Practical planning considerations
+第 10 周
+
+Sampling based planning
+Application of sampling planners
+第 11 周
+
+Planning with Uncertainty
+Overview of MDPs
+Overview of POMDPs
+第 12 周
+
+Reinforcement Learning
+Application to autonomous driving
+Uncertainty Review
+Vision/GPS/IMU models and systems
+第 13 周
+
+Overview of LIDAR systems
+Kalman Filters
+Particle Filters
+Mapping
+第 14-15 周
+
+Reviews
+Final Exam
