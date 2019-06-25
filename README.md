@@ -292,6 +292,19 @@
 读过成熟的开源代码库
 
 
+#### 9.机器人研发工程师 Robotic Research Engineer
+-岗位描述
+人工智能实验室Robotics Lab致力于研发新一代物流/服务机器人；
+其中涉及到机械结构, 电子工程, 软件系统, 自动控制, 动力系统, 嵌入式系统, 深度学习, 环境感知, SLAM, 避障与导航, 路径规划, 人机交互, 工业设计, 产品规划, 项目管理, 供应链管理等多个领域。
+-岗位要求
+1. 计算机, 软件工程, 通信工程, 电子信息, 机械设计, 自动化, 精密仪器, 自动控制, 应用数学, 航天工程, 机器人学等相关专业背景；
+2. 在校期间有参加过各类机器人/无人机比赛并取得优异成绩者, 或在Robotics/Control/CV/HCI 等相关领域的顶级会议/期刊发表高水平论文者优先；
+3. 系统软件岗位需熟悉Linux及开发环境, C++/Python/Java精通其一, 有多线程编程经验优先，有大型项目经验者优先；
+4. 算法研发岗位需熟悉机器人算法或者深度学习算法，以下领域精通其一：SLAM, path/motion planning, control, object detection, semantic segmentation, sensor fusion & calibration。
+-工作地点
+北京市(Beijing),杭州市(Hangzhou)
+
+
 ## Summary
 
 ### 关注公司： 
